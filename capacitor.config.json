@@ -1,0 +1,9 @@
+{
+  "appId": "in.aplusmentor.app",
+  "appName": "A+Mentor",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
